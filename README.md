@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on developing coding skills 
+- 😄 Pronouns: She/Her
 - 🌱 I’m currently focusing on Competitive Programming and Web development
 - 👯 I’m looking to collaborate on Github
 - 🥅 2022 Goals: Be a better human 
 - 💬 Ask me about anything
 - 📬 How to reach me: darshneyd@gmail.com 
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Oneday I will make it happen 
+- 🧗 I try to: Go beyond and push the limits
+- ⚡ Fun fact: Love watching horror movies
 
 </br>
 
