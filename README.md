@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋It's Dibya!  </h1>
+<h1 align="center">Hi there 👋  </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ddarshney&theme=react-dark&hide_border=true&area=true)
 
