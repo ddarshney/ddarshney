@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋It's Dibya!  </h1>
 
-![](https://activity-graph.herokuapp.com/graph?username=aniket762&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=ddarshney&theme=react-dark&hide_border=true&area=true)
 
 <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
 
