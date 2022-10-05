@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📬 How to reach me: darshneyd@gmail.com 
 - 🧗 I try to: Go beyond and push the limits
-- ⚡ Fun fact: Love watching horror movies
+- ⚡ Fun fact: I love watching horror movies
 
 </br>
 
