@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋  </h1>
+<h1 align="center">Hi there!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">  </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ddarshney&theme=react-dark&hide_border=true&area=true)
 
