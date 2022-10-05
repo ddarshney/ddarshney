@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
